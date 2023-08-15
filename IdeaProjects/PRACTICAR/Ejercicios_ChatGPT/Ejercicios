@@ -1,0 +1,12 @@
+1. Crea una clase "Empleado" con los siguientes atributos: nombre, edad, salario y puesto de trabajo.
+Luego crea una clase "Empresa" que tenga una lista de empleados y permita agregar nuevos empleados,
+eliminar empleados existentes y calcular la suma total de salarios de los empleados.
+
+2. Implementa una aplicación de consola en Java que le permita al usuario ingresar un número entero y
+devolver el factorial de ese número.
+
+3. Desarrolla un programa en Java que lea una cadena de caracteres desde la entrada estándar y devuelva
+el número de palabras en la cadena.
+
+4. Crea una aplicación en Java que permita al usuario ingresar una lista de números y calcular la media,
+la desviación estándar y la varianza de esos números.
